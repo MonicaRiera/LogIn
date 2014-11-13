@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>MONICA</Machine>
+    <WindowsUser>Mònica</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>ec446524-3a63-426e-a056-6176b5855a81</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Mònica\Documents\Visual Studio 2013\Projects\TryLogIn\TryLogIn\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>C7FA083BD3C229F62F171F55DA11FE20508B054E78335EC099DD8414941280B2</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>ec446524-3a63-426e-a056-6176b5855a81_1.0.0.0_neutral__phh9y543f33n4</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>ec446524-3a63-426e-a056-6176b5855a81_phh9y543f33n4!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>ec446524-3a63-426e-a056-6176b5855a81</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Mònica</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Mònica\Documents\Visual Studio 2013\Projects\TryLogIn\TryLogIn\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-11-13T11:36:36.121</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Mònica\Documents\Visual Studio 2013\Projects\TryLogIn\TryLogIn\bin\Debug\TryLogIn.exe">
+      <PackagePath>TryLogIn.exe</PackagePath>
+      <Modified>2014-11-13T12:26:15.359</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mònica\Documents\Visual Studio 2013\Projects\TryLogIn\TryLogIn\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T04:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mònica\Documents\Visual Studio 2013\Projects\TryLogIn\TryLogIn\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T04:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mònica\Documents\Visual Studio 2013\Projects\TryLogIn\TryLogIn\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T04:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mònica\Documents\Visual Studio 2013\Projects\TryLogIn\TryLogIn\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T04:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mònica\Documents\Visual Studio 2013\Projects\TryLogIn\TryLogIn\Assets\Xml\Users.xml">
+      <PackagePath>Assets\Xml\Users.xml</PackagePath>
+      <Modified>2014-11-13T11:48:37.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mònica\Documents\Visual Studio 2013\Projects\TryLogIn\TryLogIn\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2014-11-13T11:36:35.683</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mònica\Documents\Visual Studio 2013\Projects\TryLogIn\TryLogIn\bin\Debug\View\MainPage.xbf">
+      <PackagePath>View\MainPage.xbf</PackagePath>
+      <Modified>2014-11-13T11:45:40.096</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mònica\Documents\Visual Studio 2013\Projects\TryLogIn\TryLogIn\bin\Debug\TryLogIn.xr.xml">
+      <PackagePath>TryLogIn.xr.xml</PackagePath>
+      <Modified>2014-11-13T11:45:40.089</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mònica\Documents\Visual Studio 2013\Projects\TryLogIn\TryLogIn\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-11-13T11:36:35.999</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
